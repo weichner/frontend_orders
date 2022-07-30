@@ -1,0 +1,15 @@
+li {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 15px;
+    display: flex;
+    align-self: center;
+    margin-right: 30px;
+    background-color: gray;
+    padding: 5px;
+    border-radius: 5%;
+    color: white;
+}

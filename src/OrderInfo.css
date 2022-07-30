@@ -1,0 +1,30 @@
+* {
+    margin: 2px;
+}
+.products_list_item {
+    display: flex;
+    align-items: flex-start;
+}
+
+.product_item_name, .amount {
+    margin-right: 5px;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    align-content: space-around;
+    margin-top: 8px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 15px;
+    display: flex;
+    align-self: center;
+    margin-right: 30px;
+    background-color: gray;
+    padding: 5px;
+    border-radius: 5%;
+    color: white;
+}
